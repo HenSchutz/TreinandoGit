@@ -3,3 +3,5 @@ git init .
 git remote add origin <URL>
 git add .
 git commit -m "mensagem"
+git blame 
+git log --oneline
