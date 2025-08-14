@@ -1,0 +1,5 @@
+Começando com o GIT - Master
+git init .
+git remote add origin <URL>
+git add .
+git commit -m "mensagem"
